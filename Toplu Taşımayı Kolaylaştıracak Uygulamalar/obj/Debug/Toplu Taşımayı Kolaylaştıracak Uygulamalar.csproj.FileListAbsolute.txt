@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Toplu Taşıma\Toplu Taşımayı Kolaylaştıracak Uygulamalar\bin\Debug\Toplu Taşımayı Kolaylaştıracak Uygulamalar.exe.config
+C:\Users\Administrator\Desktop\Toplu Taşıma\Toplu Taşımayı Kolaylaştıracak Uygulamalar\bin\Debug\Toplu Taşımayı Kolaylaştıracak Uygulamalar.exe
+C:\Users\Administrator\Desktop\Toplu Taşıma\Toplu Taşımayı Kolaylaştıracak Uygulamalar\bin\Debug\Toplu Taşımayı Kolaylaştıracak Uygulamalar.pdb
+C:\Users\Administrator\Desktop\Toplu Taşıma\Toplu Taşımayı Kolaylaştıracak Uygulamalar\obj\Debug\Toplu Taşımayı Kolaylaştıracak Uygulamalar.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Toplu Taşıma\Toplu Taşımayı Kolaylaştıracak Uygulamalar\obj\Debug\Toplu Taşımayı Kolaylaştıracak Uygulamalar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Toplu Taşıma\Toplu Taşımayı Kolaylaştıracak Uygulamalar\obj\Debug\Toplu Taşımayı Kolaylaştıracak Uygulamalar.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Toplu Taşıma\Toplu Taşımayı Kolaylaştıracak Uygulamalar\obj\Debug\Toplu Taşımayı Kolaylaştıracak Uygulamalar.exe
+C:\Users\Administrator\Desktop\Toplu Taşıma\Toplu Taşımayı Kolaylaştıracak Uygulamalar\obj\Debug\Toplu Taşımayı Kolaylaştıracak Uygulamalar.pdb
